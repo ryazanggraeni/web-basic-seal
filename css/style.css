@@ -1,0 +1,10 @@
+.para {
+    color:rgb(60, 50, 2)
+    margin-botom: 25px;
+    border: 1px solid rgb(60, 50, 2);
+    padding: 10px;
+}
+.para-external {
+    color: rgb(60, 50, 2);
+    background-color:rgb(255, 226, 95);
+}
