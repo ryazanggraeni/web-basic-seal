@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryaz Pramesti Dyah Anggraeni</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+    <h1 style="color: rgb(60, 50, 2); font-weight: bold;">Ryaz Pramesti Dyah Anggraeni</h1>
+    <img src="Foto.jpg"height="200" width="150">
+
+    <h2 class="para-external">Tentang Saya</h2>
+    <p class="para">Seorang mahasiswa yang sedang fokus mengembangkan diri di bidang konten kreatif dan media sosial. Aktif menambah pengalaman di
+        organisasi, kepanitiaan dan berbagai proyek dosen maupun kampus. Memiliki motivasi berkembang yang tinggi dan mampu bekerja</p>
+
+        <h2 class="para-external"d>Pendidikann</h2>
+        <li class="para"><b>2017-2020</b>       SMA Negeri 3 Kediri</li>
+        <li class="para"><b>2020-Sekarang</b>   Universitas Negeri Surabaya</li>
+
+        <h2 class="para-external">Pengalaman Organisasi</h2>
+        <li class="para"><b>2021-2022</b>        Radio Terminal Unesa</li>
+        <li class="para"><b>2021-2022</b>        Development of Administrator Comunnity</li>
+        <li class="para"><b>2022-Sekarang</b>    Radio Terminal Unesa</li>
+        <li class="para"><b>2022-Sekarang</b>    Development of Administrator Comunnity</li>
+        <li class="para"><b>2022-Sekarang</b>    Bank Sampah Srikandi DWP FISH Universitas Negeri Surabaya</li>
+        <li class="para"><b>2022-Sekarang</b>    GenBI Universitas Negeri Surabaya</li>
+
+        <h2 class="para-external">Keahlian</h2>
+        <li>Desain grafis dengan CorelDraw, Adobe Illustrator dan Canva</li>
+        <li>Video editing dengan Filmora dan Adobe Premiere</li>
+        <li>Social media management</li>
+        <li>Contentwriting</li>
+        <li>Leadership</li>
+        <li>Kerjasama</li>
+        <li>Team Management</li>
+        <li>Disiplin waktu</li>
+        <li>Komunikasi yang baik</li>
+        <li>Cekatan</li>
+
+        <h2 class="para-external">Prestasi</h2>
+        <li class="para"><b>Juara 2</b>      Lomba Poster Nasional The Great Population Event Season 7 UKM Kependudukan Universitas Negeri
+            Surabaya Tahun 2021</li>
+        <li class="para"><b>Juara 2</b>      Lomba Poster Nasional LOKIS Vol.3 BEM KM Universitas Negeri Padang Tahun 2022</li>
+        <li class="para"><b>Juara 2</b>      Lomba Infografis Nasional Pekan Multimedia BEM FE Universitas Negeri Yogyakarta Tahun 2022</li>
+
+        <h2 class="para-external">Informasi Kontak</h2>
+        <li class="para"><b>Instagram</b>    : @rzprmsdyanggrn_</li>
+        <li class="para"><b>WhatsApp</b>     : 085608425363</li>
+        <li class="para"><b>Email</b>         : ryazpramesti122@gmail.com</li>
+</body>
