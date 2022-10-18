@@ -1,0 +1,38 @@
+.para {
+    color:rgb(60, 50, 2)
+    margin-botom: 25px;
+    border: 1px solid rgb(60, 50, 2);
+    padding: 10px;
+}
+.para-external {
+    color: rgb(60, 50, 2);
+    background-color:rgb(255, 226, 95);
+}
+
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
